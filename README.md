@@ -23,7 +23,7 @@ This application is a command-line application for managing a company's employee
 
 ### Views
 
-![View](./img/view.gif "Employee Tracker gif")
+![View](./images/Screenshot%202023-06-07%20at%209.52.30%20PM.png)
 
 ### Add
 
