@@ -21,6 +21,8 @@ This application is a command-line application for managing a company's employee
 
 ## Demo
 
+[How to install and use app video](https://watch.screencastify.com/v/Lhy9kqX1OXL872mmgXVK)
+
 ### Views
 
 ![View](./images/Screenshot%202023-06-07%20at%209.52.30%20PM.png)
@@ -28,6 +30,7 @@ This application is a command-line application for managing a company's employee
 ### Add
 
 ![Add](./images/Screenshot%202023-06-07%20at%209.59.23%20PM.png)
+
 
 ## Tech used
 
