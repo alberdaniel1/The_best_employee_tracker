@@ -21,7 +21,7 @@ This application is a command-line application for managing a company's employee
 
 ## Demo
 
-![How to install and use app video](https://watch.screencastify.com/v/Lhy9kqX1OXL872mmgXVK)
+[How to install and use app video](https://watch.screencastify.com/v/Lhy9kqX1OXL872mmgXVK)
 
 ### Views
 
